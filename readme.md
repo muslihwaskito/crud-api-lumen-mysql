@@ -9,7 +9,11 @@
 Laravel Lumen is a stunningly fast PHP micro-framework for building web applications with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Lumen attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as routing, database abstraction, queueing, and caching.
 
 ## Introduction
-A restfull API with token-based authentication. CRUD operation using lumen and Mysql as the database. In this app there is also a verification email forgot password if the user forgets the password.
+A restfull API with token-based authentication. CRUD operation using lumen 5.8 and Mysql as the database. In this app there is also a verification email forgot password if the user forgets the password.
+
+## Requirements
+- PHP >= 7.1.3
+- composer
 
 ## Configure
 Copy file `.env.example` to `.env`
